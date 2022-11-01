@@ -3,7 +3,8 @@
 
 
 # 4교시
-- Colab링크: https://colab.research.google.com/drive/18T6s3B0kDuGaO62osEnw4yx7iu6aQ158?usp=sharing
+- Colab링크: https://colab.research.google.com/drive/1slvIhz4hm92ZAfx0Q0OFTZoEOI6OzGNr?usp=sharing
+
 
 # reference
 - https://github.com/seujung/KoBART-summarization
