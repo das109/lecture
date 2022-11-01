@@ -27,12 +27,12 @@ class ArgsBase():
             parents=[parent_parser], add_help=False)
         parser.add_argument('--train_file',
                             type=str,
-                            default='content/drive/MyDrive/data/train.tsv',
+                            default='/content/drive/MyDrive/data/train.tsv',
                             help='train file')
 
         parser.add_argument('--test_file',
                             type=str,
-                            default='content/drive/MyDrive/data/test.tsv',
+                            default='/content/drive/MyDrive/data/test.tsv',
                             help='test file')
 
         parser.add_argument('--batch_size',
