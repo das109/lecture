@@ -12,6 +12,8 @@
 
 # Colab링크
 
+- 0교시_파이썬기초: https://colab.research.google.com/drive/1Bu_AYzgE-Q5rfGk0y3tk_qvqqSX4MOun?usp=sharing
+
 - KTL마크 관련 정보 확인하기: https://colab.research.google.com/drive/1CgJ12QG7WQMG8r5X5VcY86bBQbtp4YyE?usp=sharing
 - 인도에 많이 수출되는 물품 알아내기: https://colab.research.google.com/drive/14S_KsFLwR6WXUpFki7pGzmzwSywTZenL?usp=sharing
 - 2020년 코로나 이슈과학기술 트렌드 확인하기: https://colab.research.google.com/drive/1ejqlss0m36ym3vaYat3R9jaPOkQPEirO?usp=sharing
