@@ -3,12 +3,15 @@
 
 
 # 강의pdf
+
+- https://drive.google.com/file/d/1x1kRNLZ8TXiERdsJVRnlcHCcKKx5X1tq/view?usp=sharing
 - https://drive.google.com/file/d/1vbxdn2PQj14ZbD3eamqtEmGUmf_1Kvap/view?usp=sharing
 
 
 # 데이터
-- https://drive.google.com/drive/folders/1DHC1WKeK1TvFHai1Tf9MEMTgIS1kflwE?usp=sharing
 
+- https://drive.google.com/drive/folders/1DHC1WKeK1TvFHai1Tf9MEMTgIS1kflwE?usp=sharing
+- https://drive.google.com/file/d/1nIESfuiW1CdQYUBzIVEow4sUdvQGA7J1/view?usp=sharing
 
 # Colab링크
 
