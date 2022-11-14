@@ -2,7 +2,7 @@
 강의용
 
 
-# 강의pdf
+# pdf
 
 - https://drive.google.com/file/d/1x1kRNLZ8TXiERdsJVRnlcHCcKKx5X1tq/view?usp=sharing
 - https://drive.google.com/file/d/1nIESfuiW1CdQYUBzIVEow4sUdvQGA7J1/view?usp=sharing
